@@ -34,3 +34,8 @@
     transition: all 200ms ease-in;
     transform: scale(1.5);
 }
+footer{
+    background-color: rgb(170, 167, 167);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
